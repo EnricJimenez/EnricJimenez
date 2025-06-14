@@ -1,5 +1,5 @@
 # 💫 About Me:
-QA Tester | Costumer Assistance Consultant for banking and insurance entities | Prompt engineering of artificial intelligence | Passionate of programming languages
+Software Engineering | .NET Senior Backend Developer
 
 
 ## 🌐 Socials:
